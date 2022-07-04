@@ -1,0 +1,130 @@
+header {
+    background-color: #fbbc02;
+    position: fixed;
+    width: 1900px;
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    
+}
+
+img {
+    width: 200px;
+}
+.right {
+    text-align: right;
+    padding-right: 50px;
+}
+.mercadoliebre {
+    padding-left: 50px;
+    padding-bottom: 10px;
+}
+.hola {
+    padding-left: 50px;
+    display: inline-block;
+}
+h1 {
+text-align: center;
+}
+.cafetera {
+    width: 350px;
+    border: 1px solid grey;
+    display: inline-block;
+}
+.compu {
+    width: 350px;
+    border: 1px solid grey;
+    display: inline-block;
+}
+.tele {
+    width: 350px;
+    border: 1px solid grey;
+    display: inline-block;
+}
+.celu {
+    width: 350px;
+    border: 1px solid grey;
+    display: inline-block;
+}
+main {
+    text-align: center;
+}
+.samsung {
+    width: 700px;
+    border: 1px solid grey;
+    position: relative;
+    display: inline-block;
+    text-align: center;
+    padding-bottom: 75px;
+    padding-top: 75px;
+    
+}
+.smart {
+    width: 700px;
+    border: 1px solid grey;
+    position: relative;
+    display: inline-block;
+    text-align: center;
+    padding-bottom: 75px;
+    padding-top: 75px;
+}
+.fondo {
+    border: 5px outset skyblue;
+    display: inline-block;
+    background-color: skyblue;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+.texto-encima {
+
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.start {
+    text-align: start;
+    display: inline-block;
+}
+
+.centrado {
+    display: inline-block;
+    text-align: center;
+    transform: translateX(600px);
+}
+.end {
+    display: inline-block;
+    text-align: right;
+    transform: translateX(1000px);
+    
+}
+.nashe {
+    text-align: end;
+    padding-right: 50px;
+    margin-left: auto;
+}
+
+.hola {
+    transition-property: all;
+    transition-duration: 5s;
+    transition-timing-function: ease-in-out;
+    transition-delay: 3s;
+
+}
+.hola:hover{
+    font-size: 18px;
+    color: chocolate;
+}
+.padre {
+    display: flex;
+}
+.carrousel {
+    
+    width: 2000px;
+    padding-top: 190px;
+}
+.seguinos {
+    display: inline-block;
+}
